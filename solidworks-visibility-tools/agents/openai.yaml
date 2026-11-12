@@ -1,0 +1,4 @@
+interface:
+  display_name: "SolidWorks Visibility Tools"
+  short_description: "Build and validate a universal SolidWorks visibility add-in"
+  default_prompt: "Use $solidworks-visibility-tools to build and validate the universal SolidWorks visibility add-in."
